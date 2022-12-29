@@ -1,0 +1,25 @@
+{
+  "name": "ums_tsc",
+  "version": "1.0.0",
+  "description": "UMS_Tsc",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmansaeed101/UMS_TSC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmansaeed101/UMS_TSC/issues"
+  },
+  "homepage": "https://github.com/salmansaeed101/UMS_TSC#readme",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "inquirer": "^9.1.4"
+  }
+}
